@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="40"
+   height="40"
+   viewBox="0 0 10.583333 10.583333"
+   version="1.1"
+   id="svg1056">
+  <defs
+     id="defs1050" />
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1.5119048"
+       y="2.5985863"
+       id="text1060"><tspan
+         id="tspan1058"
+         x="1.5119048"
+         y="2.5985863"
+         style="stroke-width:0.264583"/></text>
+    <g
+       id="g1106"
+       transform="matrix(1.174389,0,0,1.174389,-1.0130113,-0.12710857)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.697px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.176137"
+         x="2.4036913"
+         y="4.143837"
+         id="text1078"><tspan
+           id="tspan1076"
+           x="2.4036913"
+           y="4.143837"
+           style="fill:#ff0000;stroke-width:0.176137">F</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.697px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke-width:0.176137"
+         x="3.3158309"
+         y="5.9209361"
+         id="text1082"><tspan
+           id="tspan1080"
+           x="3.3158309"
+           y="5.9209361"
+           style="fill:#ffffff;stroke-width:0.176137">T</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.697px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.176137"
+         x="4.7783999"
+         y="6.8802543"
+         id="text1086"><tspan
+           id="tspan1084"
+           x="4.7783999"
+           y="6.8802543"
+           style="fill:#0000ff;stroke-width:0.176137">C</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="0.79961008"
+       y="9.567523"
+       id="text1090"><tspan
+         id="tspan1088"
+         x="0.79961008"
+         y="9.567523"
+         style="font-size:1.41111px;stroke-width:0.264583"
+         dy="0 0">Convenience</tspan></text>
+  </g>
+</svg>

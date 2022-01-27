@@ -1,0 +1,25 @@
+<idea-plugin>
+  <version>1.4.0</version>
+  <change-notes>- Compatibility with Bumblebee
+                - Made write action undoable
+                - Housekeeping Kotlin fixes</change-notes>
+  <idea-version since-build="203.7717" until-build="211.*" />
+  <id>org.sparib.ftcConvenience</id>
+  <name>FTC Convenience</name>
+  <vendor email="dev@sparib.com" url="https://sparib.com">Sparib</vendor>
+  <description>Adds an action that formats an empty Java class to the OpMode of your choosing when you run the action.</description>
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+  <depends>org.jetbrains.android</depends>
+  <depends>com.intellij.java</depends>
+  <depends>org.jetbrains.kotlin</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+  <actions>
+    <action id="com.sparib.ftcConvenience.MainAction" class="com.sparib.ftcConvenience.MainAction" text="Format FTC Class">
+      <add-to-group group-id="ToolsMenu" anchor="after" relative-to-action="ToolsXmlGroup" />
+    </action>
+  </actions>
+</idea-plugin>
